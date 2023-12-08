@@ -1,0 +1,7 @@
+C:\Users\user\Desktop\Practice Project 4\OopsBasedSystem\OopsBasedSystem\bin\Debug\OopsBasedSystem.exe.config
+C:\Users\user\Desktop\Practice Project 4\OopsBasedSystem\OopsBasedSystem\bin\Debug\OopsBasedSystem.exe
+C:\Users\user\Desktop\Practice Project 4\OopsBasedSystem\OopsBasedSystem\bin\Debug\OopsBasedSystem.pdb
+C:\Users\user\Desktop\Practice Project 4\OopsBasedSystem\OopsBasedSystem\obj\Debug\OopsBasedSystem.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\Practice Project 4\OopsBasedSystem\OopsBasedSystem\obj\Debug\OopsBasedSystem.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Practice Project 4\OopsBasedSystem\OopsBasedSystem\obj\Debug\OopsBasedSystem.exe
+C:\Users\user\Desktop\Practice Project 4\OopsBasedSystem\OopsBasedSystem\obj\Debug\OopsBasedSystem.pdb
